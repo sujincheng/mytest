@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <c3p0-config>
   <!-- 使用默认的配置读取连接池对象 -->
   <default-config>
@@ -8,4 +8,5 @@
     <property name="user">root</property>
     <property name="password">root</property>
   </default-config>
+<!--哈哈-->
 </c3p0-config>
